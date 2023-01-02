@@ -7,7 +7,7 @@ Sophomore student HBO Informatica & Web developer
 * 🌍  I'm based in Nieuw-Vennep, The Netherlands
 * ✉️  You can contact me at [luc.moetwil@gmail.com](mailto:luc.moetwil@gmail.com)
 * 🧠  Currently I'm learning PHP, JavaScript & UX-design
-* 💻 This github profile contains school & course projects.
+* 💻  This github profile contains school & course projects.
 
 <a href="https://www.github.com/moetwil" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/moetwil?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
