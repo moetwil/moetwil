@@ -3,7 +3,7 @@
 
 *   🌍  I'm based in Nieuw-Vennep, The Netherlands
 *   ✉️  You can contact me at [luc.moetwil@gmail.com](mailto:luc.moetwil@gmail.com)
-*   🧠  I'm learning PHP, JavaScript, UX-design
+*   🧠  I'm currently learning React
 
 <h3 >Connect with me:</h3>
 <p >
