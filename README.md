@@ -1,5 +1,5 @@
 <h1>Hi 👋, My name is Luc Moetwil</h1>
-<h3>Sophomore student HBO Informatica & Web developer</h3>
+<h3>Junior student HBO Informatica & Web developer</h3>
 
 *   🌍  I'm based in Nieuw-Vennep, The Netherlands
 *   ✉️  You can contact me at [luc.moetwil@gmail.com](mailto:luc.moetwil@gmail.com)
