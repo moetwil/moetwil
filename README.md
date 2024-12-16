@@ -8,7 +8,6 @@
 <p >
  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/luc-moetwil-021a97158/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luc-moetwil-021a97158/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/users/lucky#2885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/lucky#2885" height="30" width="40" /></a>
  <a href="https://www.github.com/moetwil" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/moetwil?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </p>
