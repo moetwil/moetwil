@@ -5,6 +5,7 @@ Building AI-powered content systems, SEO tooling & internet products.
 </p>
 
 <p align="center">
+<a href="https://www.lucmoetwil.com/">lucmoetwil.com</a> •
 <a href="https://github.com/moetwil/wp-canon">WP Canon</a> •
 <a href="https://whilewecan.app/">While We Can</a> •
 <a href="https://travacol.com/">Travacol</a> •
@@ -65,6 +66,7 @@ SEO-driven health content platform growing through organic search.
 ## 🌍 Connect
 
 <p align="left">
+<a href="https://www.lucmoetwil.com/" target="blank">Website</a> •
 <a href="https://twitter.com/luc_moetwil" target="blank">Twitter</a> •
 <a href="https://linkedin.com/in/lucmoetwil" target="blank">LinkedIn</a>
 </p>
